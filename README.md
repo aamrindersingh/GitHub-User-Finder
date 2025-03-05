@@ -1,4 +1,4 @@
-# GitHub User Finder
+# GitHub User Finder ( Deployed Link : https://lucky-starburst-e143a3.netlify.app/ )
 
 ## 🚀 Overview
 GitHub User Finder is a React application that fetches and displays user data from the GitHub API based on user input. It allows users to search for any GitHub profile and view relevant details such as their avatar, name, location ,followers, and no. of repositories.
@@ -29,11 +29,5 @@ GitHub User Finder is a React application that fetches and displays user data fr
 
 ---
 
-
-
-GitHub: [Your GitHub Profile Link Here]  
-LinkedIn: [Your LinkedIn Profile Link Here]  
-
-Happy Coding! 🚀🎉
 
 
